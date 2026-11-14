@@ -19,7 +19,8 @@ Use the direct links below to display these images in Discord, a website, or oth
 | Asset | Example |
 | --- | --- |
 | [Server dashboard](https://raw.githubusercontent.com/MorpheusDark7/Mofi-s-Image-Library/main/web-dashboard-server-list.png) | Server list and bot configuration |
-| [Listening profile](https://raw.githubusercontent.com/MorpheusDark7/Mofi-s-Image-Library/main/web-dashboard-listening-profile.png) | Listening stats and profile dashboard |
+| [Listening profile overview](https://raw.githubusercontent.com/MorpheusDark7/Mofi-s-Image-Library/main/web-dashboard-listening-profile-overview.png) | Profile details and listening stats |
+| [Listening activity and liked tracks](https://raw.githubusercontent.com/MorpheusDark7/Mofi-s-Image-Library/main/web-dashboard-listening-activity.png) | Station activity chart and saved tracks |
 
 ## Branding
 
